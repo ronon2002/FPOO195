@@ -1,0 +1,5 @@
+var1=(input("Ingresa tu nombre(s): "))
+var2=(input("Ingresa tu apellidos: "))
+print(var1.lower())
+print(var1.upper())
+print(var1.title(),var2.upper())
